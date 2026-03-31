@@ -1,5 +1,6 @@
 # Meteor-Game
-PyGame with spawning meteors to evade
+PyGame with spawning meteors to evade.
+
 Features:
 - Movable character WASD
 - Game ends upon collision with meteor
